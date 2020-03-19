@@ -1,0 +1,36 @@
+/*
+.navbar-nav .nav-link {
+    color: rgba(0,0,0,1) !important;
+}
+
+.navbar-nav .nav-link:hover {
+    color: rgba(0,0,0,.5) !important;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+#blogtitle {
+    font-size: 1rem;
+}
+
+@media (min-width: 992px) {
+    #hometext {
+        font-size: 4rem;
+    }
+    #blogdetailtitle {
+        font-size: 5rem;
+    }
+}
+*/
+body {
+  background-color:black;
+}
+h5,h2,p,h1,h3,h4,b,strong   {
+color:white;
+}
+.abc:hover{
+color:#00ffbf;
+
+}
