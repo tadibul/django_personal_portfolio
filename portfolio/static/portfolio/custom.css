@@ -30,7 +30,11 @@ body {
 h5,h2,p,h1,h3,h4,b,strong   {
 color:white;
 }
+.abc {
+color:#2b46e0;
+}
+
 .abc:hover{
-color:#00ffbf;
+color:#6478ed;
 
 }
